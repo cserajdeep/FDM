@@ -10,7 +10,7 @@ e.g., Irish_Evaluation_notebook.ipynb demonstrates both the feature selection te
 Fuzzy Discernibility Matrix-based a novel feature selection technique
 
 # Citing
-```
+```ruby
 @inproceedings{chatterjee2016discernibility,
   title={Discernibility matrix based dimensionality reduction for EEG signal},
   author={Chatterjee, Rajdeep and Guha, Dibyajyoti and Sanyal, Debarshi Kumar and Mohanty, Sachi Nandan},
@@ -20,7 +20,7 @@ Fuzzy Discernibility Matrix-based a novel feature selection technique
   organization={IEEE}
 }
 ```
-```
+```ruby
 @inproceedings{chatterjee2017dimensionality,
   title={Dimensionality reduction of EEG signal using fuzzy discernibility matrix},
   author={Chatterjee, Rajdeep and Bandyopadhyay, Tathagata and Sanyal, Debarshi Kumar and Guha, Dibyajyoti},
@@ -30,7 +30,7 @@ Fuzzy Discernibility Matrix-based a novel feature selection technique
   organization={IEEE}
 }
 ```
-```
+```ruby
 @article{chatterjee2019novel,
   title={A novel machine learning based feature selection for motor imagery EEG signal classification in Internet of medical things environment},
   author={Chatterjee, Rajdeep and Maitra, Tanmoy and Islam, SK Hafizul and Hassan, Mohammad Mehedi and Alamri, Atif and Fortino, Giancarlo},
