@@ -9,6 +9,9 @@ e.g., Irish_Evaluation_notebook.ipynb demonstrates both the feature selection te
 # FDM
 Fuzzy Discernibility Matrix-based a novel feature selection technique
 
+# Support
+There are many ways to encourage a coder - starring⭐️ the GitHub repos is just one.
+
 # Citing
 ```ruby
 @inproceedings{chatterjee2016discernibility,
